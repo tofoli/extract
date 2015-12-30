@@ -5,7 +5,7 @@ Script Bash for extract files
 ```
 git clone https://github.com/tofoli/extract.git /opt/extract
 chmod +x /opt/extract/extract
-ln -s /usr/local/bin/extract /opt/extract/extract
+ln -s /opt/extract/extract /usr/local/bin/extract
 ```
 
 ## Syntax
